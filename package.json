@@ -1,0 +1,21 @@
+{
+  "name": "stratusgridapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "bin": "./index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "chalk": "^5.0.0",
+    "chalk-animation": "^1.6.0",
+    "inquirer": "^8.2.0",
+    "jest": "^27.5.1",
+    "nanospinner": "^1.0.0"
+  }
+}
